@@ -1,16 +1,17 @@
 # HarmonyOSQuickPack
 
+<p align=center>
+      <img src="https://vipandroid-image.oss-cn-beijing.aliyuncs.com/harmony/abner.jpg" alt="vip_project.jpg" width="20%" />
+<br/>
+【有任何使用上的问题或者想查看鸿蒙相关的技术文章，都可以微信扫描以上二维码，进行关注！】
+</p>
+
 鸿蒙系统，内部应用打包工具，一键打包，彻底解放您的双手！告别提交应用商店审核限制！
 
 使用内部测试，您可以将应用发布上传至您的服务器或者第三方云上，团队参与测试的人员可以将应用下载到授权的设备上测试。您可以更灵活发布版本和限定测试范围，助您提前发现问题，及时修复问题和优化版本体验。
 
 使用插件之前，您首先要有内部测试Profile文件和配置内部测试应用签名。
 
-<p align=center>
-      <img src="https://vipandroid-image.oss-cn-beijing.aliyuncs.com/harmony/abner.jpg" alt="vip_project.jpg" width="20%" />
-<br/>
-【有任何使用上的问题或者想查看鸿蒙相关的技术文章，都可以微信扫描以上二维码，进行关注！】
-</p>
 
 ## 内部测试Profile申请及应用签名配置流程
 
