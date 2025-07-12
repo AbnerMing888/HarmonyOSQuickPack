@@ -11,15 +11,15 @@
 
 1、登录[AppGallery Connect](https://developer.huawei.com/consumer/cn/service/josp/agc/index.html#/)，选择“证书、APP ID和Profile”。
 
-![profile_001.jpg](image%2Fprofile_001.jpg)
+![profile_001.jpg](profile_001.jpg)
 
 2、在左侧导航栏选择“证书、APP ID和Profile > Profile”，进入“Profile”页面，点击右上角“添加”。
 
-![profile002.jpg](image%2Fprofile002.jpg)
+![profile_002.jpg](profile_002.jpg)
 
 3、这里选择内部测试，其他的信息和你之前申请发布类型一样。
 
-![profile_003.jpg](image%2Fprofile_003.jpg)
+![profile_003.jpg](profile_003.jpg)
 
 
 | 参数       | 说明 |
