@@ -6,6 +6,12 @@
 
 使用插件之前，您首先要有内部测试Profile文件和配置内部测试应用签名。
 
+<p align=center>
+      <img src="https://vipandroid-image.oss-cn-beijing.aliyuncs.com/harmony/abner.jpg" alt="vip_project.jpg" width="20%" />
+<br/>
+【有任何使用上的问题或者想查看鸿蒙相关的技术文章，都可以微信扫描以上二维码，进行关注！】
+</p>
+
 ## 内部测试Profile申请及应用签名配置流程
 
 内部测试包，必须使用内部测试Profile文件进行签名，方可进行安装下载。
@@ -127,15 +133,22 @@
 
 基础配置主要配置密钥文件以及云资源上传信息，密钥文件主要用于描述文件的签名，这是内部测试包的必须选项，所以请大家务必正确配置，在配置时，请配置原始的密码和别名密码，请不要使用加密的密码，如下配置：
 
+<p align=center>
+      <img src="https://vipandroid-image.oss-cn-beijing.aliyuncs.com/harmony/pack/pack_001.jpg" alt="vip_project.jpg" width="40%" />
+</p>
  
 设置上传方式的目的，是需要将打出的应用包存储到哪里，以便于进行下载使用，目前提供了有腾讯云和阿里云两种方式，后续看大家需求，再拓展其它的服务器或者本地服务器。
 腾讯云和阿里云，没什么好说的，大家按照信息配置即可，这些可以在官方后台就能查看，需要确定的是，请把Bucket设置为可读可写，当然了，如果您感觉有风险，可以上传完毕后再修改为可读即可。
 
 #### 腾讯云
-
+<p align=center>
+      <img src="https://vipandroid-image.oss-cn-beijing.aliyuncs.com/harmony/pack/pack_002.jpg" alt="vip_project.jpg" width="40%" />
+</p>
  
 #### 阿里云
-
+<p align=center>
+      <img src="https://vipandroid-image.oss-cn-beijing.aliyuncs.com/harmony/pack/pack_003.jpg" alt="vip_project.jpg" width="40%" />
+</p>
  
 ### 功能介绍
 
@@ -150,6 +163,10 @@
 #### 2、查看更新包
 
 在这里，可以查看历史更新的包，可以对其复制链接，或者查看二维码，可以直接把链接或二维码发送给测试人员，供其下载使用。
+
+<p align=center>
+      <img src="https://vipandroid-image.oss-cn-beijing.aliyuncs.com/harmony/pack/pack_004.jpg" alt="vip_project.jpg" width="40%" />
+</p>
  
 #### 3、全部功能
 
