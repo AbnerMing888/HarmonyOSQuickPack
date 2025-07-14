@@ -12,7 +12,7 @@
 
 插件下载地址：[点击下载](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.0.jar)
 
-插件使用说明：
+插件使用说明文档：[点击查看](https://juejin.cn/post/7526541171012255778)
 
 使用插件之前，您首先要有内部测试Profile文件和配置内部测试应用签名。
 
