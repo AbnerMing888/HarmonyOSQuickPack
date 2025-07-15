@@ -18,8 +18,7 @@
 
 鉴于大家的问题比较多，为方便及时沟通，大家有问题的可以扫码入群。
 
-![har_plug.jpg](har_plug.jpg)
-
+ <img src="har_plug.jpg" alt="har_plug.jpg" width="20%" />
 
 使用插件之前，您首先要有内部测试Profile文件和配置内部测试应用签名。
 
