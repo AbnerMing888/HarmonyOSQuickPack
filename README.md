@@ -10,9 +10,13 @@
 
 使用内部测试，您可以将应用发布上传至您的服务器或者第三方云上，团队参与测试的人员可以将应用下载到授权的设备上测试。您可以更灵活发布版本和限定测试范围，助您提前发现问题，及时修复问题和优化版本体验。
 
-插件最新版本：1.1
+```
+最新版本：1.2
+更新时间：2025年7月16日
+更新内容：优化模块多级嵌套问题
+```
 
-插件下载地址：[点击下载](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.1.jar)
+插件下载地址：[点击下载](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.2.jar)
 
 插件使用说明文档：[点击查看](https://juejin.cn/post/7526541171012255778)
 
