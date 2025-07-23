@@ -16,7 +16,7 @@
 更新内容：1、增加工具重置功能，位置：顶部Build菜单最后一个
 ```
 
-插件下载地址：[点击下载](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.7.jar)
+插件下载地址：[点击下载](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.8.jar)
 
 插件使用说明文档：[点击查看](https://juejin.cn/post/7526541171012255778)
 
