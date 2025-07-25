@@ -11,12 +11,14 @@
 使用内部测试，您可以将应用发布上传至您的服务器或者第三方云上，团队参与测试的人员可以将应用下载到授权的设备上测试。您可以更灵活发布版本和限定测试范围，助您提前发现问题，及时修复问题和优化版本体验。
 
 ```
-最新版本：1.9
-更新时间：2025年7月24日
-更新内容：1、优化windows系统执行命令失败问题
+最新版本：2.0
+更新时间：2025年7月25日
+更新内容：1、优化描述文件中的设备生成，2、优化工程中的模块未使用情况（根build-profile.json5下需要删除依赖）
 ```
 
-插件各版本下载地址：[1.9版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.9.jar)
+插件各版本下载地址：
+[2.0版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.0.jar)
+[1.9版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.9.jar)
 [1.8版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.8.jar)
 [1.7版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.7.jar)
 
