@@ -16,7 +16,9 @@
 更新内容：1、优化windows系统执行命令失败问题
 ```
 
-插件下载地址：[点击下载](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.9.jar)
+插件各版本下载地址：[1.9版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.9.jar)
+[1.8版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.8.jar)
+[1.7版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.7.jar)
 
 插件使用说明文档：[点击查看](https://juejin.cn/post/7526541171012255778)
 
