@@ -29,8 +29,15 @@
  <img src="har_plug.jpg" alt="har_plug.jpg" width="20%" />
 
 
-使用插件之前，您首先要有内部测试Profile文件和配置内部测试应用签名。
+使用插件之前，您首先要有java环境以及内部测试Profile文件和配置内部测试应用签名。
 
+## Java环境
+
+因为官方的验签工具需要java环境，所以需要下载jdk并配置环境变量，如果您在终端命令行输入java -v ，能够正确展示出版本号，则有java环境，否则需要手动配置。
+
+官方JDK下载地址：https://www.oracle.com/java/technologies/downloads/#java21
+
+环境变量可自行配置。
 
 ## 内部测试Profile申请及应用签名配置流程
 
