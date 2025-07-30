@@ -33,7 +33,7 @@
 
 ## Java环境
 
-因为官方的验签工具需要java环境，所以需要下载jdk并配置环境变量，如果您在终端命令行输入java -v ，能够正确展示出版本号，则有java环境，否则需要手动配置。
+因为官方的验签工具需要java环境，所以需要下载jdk并配置环境变量，如果您在终端命令行输入java -version ，能够正确展示出版本号，则有java环境，否则需要手动配置。
 
 官方JDK下载地址：https://www.oracle.com/java/technologies/downloads/#java21
 
