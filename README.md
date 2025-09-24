@@ -17,6 +17,7 @@
 ```
 
 插件各版本下载地址：
+[2.2版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.2.jar)
 [2.0版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.0.jar)
 [1.9版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.9.jar)
 [1.8版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.8.jar)
