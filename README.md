@@ -11,12 +11,13 @@
 使用内部测试，您可以将应用发布上传至您的服务器或者第三方云上，团队参与测试的人员可以将应用下载到授权的设备上测试。您可以更灵活发布版本和限定测试范围，助您提前发现问题，及时修复问题和优化版本体验。
 
 ```
-最新版本：2.2
-更新时间：2025年9月24日
+最新版本：2.3
+更新时间：2025年9月29日
 更新内容：1、适配高版本IDE
 ```
 
 插件各版本下载地址：
+[2.3版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.3.jar)
 [2.2版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.2.jar)
 [2.0版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.0.jar)
 [1.9版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.9.jar)
