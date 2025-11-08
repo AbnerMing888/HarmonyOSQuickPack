@@ -11,17 +11,17 @@
 使用内部测试，您可以将应用发布上传至您的服务器或者第三方云上，团队参与测试的人员可以将应用下载到授权的设备上测试。您可以更灵活发布版本和限定测试范围，助您提前发现问题，及时修复问题和优化版本体验。
 
 ```
-最新版本：2.4
-更新时间：2025年10月10日
-更新内容：1、适配高版本IDEUI,最新入口在Build内，可自行设置位置。
+最新版本：2.5
+更新时间：2025年11月8日
+更新内容：1、优化重置功能，2、优化模块遍历逻辑
 ```
 
 插件各版本下载地址：
+[2.5版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.5.jar)
 [2.4版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.4.jar)
 [2.3版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.3.jar)
 [2.2版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.2.jar)
 [2.0版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-2.0.jar)
-[1.9版本](https://abnerming888.github.io/vip/load/HarmonyOSAppPackSign-1.9.jar)
 
 插件使用说明文档：[点击查看](https://juejin.cn/post/7526541171012255778)
 
